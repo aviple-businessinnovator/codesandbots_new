@@ -104,7 +104,7 @@ html[xmlns] .slides {display: block;}
     font-weight: 800;
 }
 .flex-control-paging li a.flex-active {
-    background: #ffce14;
+    background: #0D286C;
     border-radius: 50%;
     color: #fdfeff;
     transform: rotateX(360deg);
