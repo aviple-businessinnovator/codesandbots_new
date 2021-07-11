@@ -15,7 +15,7 @@
 
 /*----*/
 #ui-datepicker-div {
-      font-family: 'Open Sans', sans-serif;
+      font-family:   'Open Sans', sans-serif;
     background: #111313;
    /* border: 1px solid #383535;*/
     border-top: none;
@@ -23,7 +23,7 @@
 }
 .ui-datepicker-title span{
 	color: #fff;
-	font-family: 'Open Sans', sans-serif;
+	font-family:   'Open Sans', sans-serif;
 	font-size: 1.2em;
 }
 /* Interaction Cues
@@ -130,7 +130,7 @@ font-weight: normal; }
 .ui-datepicker th { padding: .7em .3em; text-align: center; font-weight: bold; border: 0;  }
 .ui-datepicker th span{
 	color: #FFF;
-	font-family: 'Open Sans', sans-serif;
+	font-family:   'Open Sans', sans-serif;
 	font-size: 0.9em;
 	text-transform: uppercase;
 }
@@ -138,7 +138,7 @@ font-weight: normal; }
 .ui-datepicker td span, .ui-datepicker td a {
 	display: block; padding: .3em; text-align: center; text-decoration: none;
 	color: #EEE;
-	font-family: 'Open Sans', sans-serif;
+	font-family:   'Open Sans', sans-serif;
 	font-size: 1.2em;
 }
 	  
@@ -284,9 +284,9 @@ body .ui-tooltip { border-width: 2px; }
 
 /* Component containers
 ----------------------------------*/
-.ui-widget { font-family: Verdana,Arial,sans-serif/*{ffDefault}*/; font-size: 1em/*{fsDefault}*/; }
+.ui-widget { font-family:   'Open Sans', sans-serif/*{ffDefault}*/; font-size: 1em/*{fsDefault}*/; }
 .ui-widget .ui-widget { font-size: 1em; }
-.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-family: Verdana,Arial,sans-serif/*{ffDefault}*/; font-size: 1em; }
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-family:   'Open Sans', sans-serif/*{ffDefault}*/; font-size: 1em; }
 
 /* Interaction states
 ----------------------------------*/
